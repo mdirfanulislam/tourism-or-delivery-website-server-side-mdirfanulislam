@@ -41,6 +41,3 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
   console.log(`ctg tourism server lisining, ${port}`)
 })
-
-
-// Error: queryTxt ETIMEOUT cluster0.6azhy.mongodb.net
